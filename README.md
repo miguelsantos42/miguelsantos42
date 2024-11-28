@@ -19,6 +19,9 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![prolog](https://img.shields.io/badge/Prolog-blue?style=for-the-badge&logo=code&logoColor=white)
+![java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 ## Stats
@@ -34,5 +37,8 @@
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| {nome} | [{nome}]({link para o repositorio})   | {descricao}                                                                                                        | {nota}        |
+| IA | [Focus](https://github.com/miguelsantos42/IA/tree/main/assignment1)  | Focus: Development of adversarial search methods for the strategic game.                    | 19.5        |
+| IA | [BreastCancer](https://github.com/miguelsantos42/IA/tree/main/assignment2)     | Breast Cancer: Application of machine learning models and algorithms related to supervised learning.    | 20.0        |
+
+
 
