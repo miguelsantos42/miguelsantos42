@@ -1,4 +1,4 @@
-# miguelsantos42
+
 
 ## 👨‍💻 About Me
 
@@ -6,7 +6,7 @@
 - I´m from Porto, Portugal;
 - Prefer work in team, skill that was developed during my Bachelor degree;
 - My favourites sports are football and surf;
-- I entend to take a master degree at `AI` or `Engineering and Data Science` at FEUP;
+- I entend to take a master degree in `AI` or `Engineering and Data Science` at FEUP;
 
 
 
