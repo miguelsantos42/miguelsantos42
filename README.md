@@ -40,6 +40,8 @@
 | IA | [Focus](https://github.com/miguelsantos42/IA/tree/main/assignment1)  | Focus: Development of adversarial search methods for the strategic game.                    | 19.5        |
 | IA | [BreastCancer](https://github.com/miguelsantos42/IA/tree/main/assignment2)     | Breast Cancer: Application of machine learning models and algorithms related to supervised learning.    | 20.0        |
 | PROG | [Project](https://github.com/miguelsantos42/PROG/tree/main/project)| Conversion of images from the SVG vectorial format to the PNG raster format.                   | 16.2        |
+| DA | [Pipelines](https://github.com/miguelsantos42/DA/tree/master/Projeto1)  | Pipelines: Implement an analysis tool that can support of a water supply network in Portugal                    | 16.9       |
+| DA | [TSP](https://github.com/miguelsantos42/DA/tree/master/Projeto2)        | TSP:Implement TSP solutions: exhaustive, approximate, algorithm, implementation, presentation.    | 19.1       |
 
 
 
