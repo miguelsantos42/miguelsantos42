@@ -4,8 +4,8 @@
 
 - My name is Miguel Santos! I´m currently finishing my bachelor degree in Computing Engineering at FEUP;
 - I´m from Porto, Portugal;
-- Prefer work in team, skill that was developed during my Bachelor degree;
-- My favourites sports are football and surf;
+- I Prefer work in team, skill that was developed during my Bachelor degree;
+- In order to mantain balance i enjoy go for a run, go to the gym and surfing
 - I entend to take a master degree in `AI` or `Engineering and Data Science` at FEUP;
 
 
